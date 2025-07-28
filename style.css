@@ -1,1 +1,36 @@
-body { font-family: sans-serif; background-color: #f8f4f9; color: #4f3a65; padding: 2rem; }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f1f6;
+    color: #3b2d4a;
+}
+
+header {
+    background-color: #3b2d4a;
+    color: #f5f1f6;
+    padding: 2rem;
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #5e4c74;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 1.5rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    background-color: #e6e0ea;
+}
